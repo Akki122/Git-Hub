@@ -1,5 +1,3 @@
 SPORTS              -         NAMES
 ====================================
-Cricket             -         Sachin
-Hockey              -         jan
-Running             -         Milkha
+      
